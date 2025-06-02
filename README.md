@@ -23,8 +23,24 @@ Este repositório contém o código-fonte de um site para uma imobiliária, dese
 - **Hospedagem:** Vercel
 
 
+🔐 Acesso ao Painel Administrativo
+Para acessar o painel de administração:
 
-## 📁 Estrutura do Projeto
+URL: /admin
 
-```bash
+Usuário: admin
+
+Senha: admin123
+
+(Recomenda-se alterar essas credenciais em produção)
+
+👥 Contribuidores
+Ricardo Cavalcante - RC DEV
+
+
+📄 Licença
+Este projeto está licenciado sob a MIT License.
+
+Feito com ❤️ para facilitar a vida de quem procura ou anuncia imóveis.
+
 
